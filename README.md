@@ -190,3 +190,15 @@ python 07_plotly_dash_dashboard.py
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Built%20with%20🔥%20by%20Puneeth%20Krishna&fontSize=20&fontColor=00d4ff&fontAlignY=65" width="100%"/>
 
 </div>
+Python | Pandas | NumPy | Scikit-learn  
+Matplotlib | Seaborn | Plotly | Dash  
+Folium | BeautifulSoup | Requests
+
+GPRM/
+│── data/
+│── notebooks/
+│── models/
+│── figures/
+│── assets/
+│── README.md
+
